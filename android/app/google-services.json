@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173120249003",
+    "project_id": "multi-store-77e7d",
+    "storage_bucket": "multi-store-77e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173120249003:android:dde35c1dc1a87eafdbabee",
+        "android_client_info": {
+          "package_name": "com.example.realidadeaumentada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUQIA9WbtgfTsGn1vjynMnlPVE24lkJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
